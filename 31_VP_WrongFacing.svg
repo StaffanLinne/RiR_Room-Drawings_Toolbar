@@ -4,21 +4,17 @@
   <defs>
     <style>
       .st0 {
-        fill: #ee509c;
-        stroke: #ee4f9c;
-        stroke-width: 28px;
+        stroke: #000;
       }
 
       .st0, .st1, .st2 {
+        fill: none;
         stroke-miterlimit: 10;
       }
 
       .st1 {
-        stroke: #000;
-      }
-
-      .st1, .st2 {
-        fill: none;
+        stroke: #ee4f9c;
+        stroke-width: 28px;
       }
 
       .st3 {
@@ -46,7 +42,7 @@
       <line class="st2" x1="370.13" y1="167.46" x2="370.13" y2="350.12"/>
     </g>
   </g>
-  <line class="st1" x1="61.44" y1="256" x2="61.44" y2="256"/>
-  <line class="st0" x1="279.99" y1="260.19" x2="361.98" y2="342.18"/>
-  <line class="st0" x1="361.98" y1="260.19" x2="279.99" y2="342.18"/>
+  <line class="st0" x1="61.44" y1="256" x2="61.44" y2="256"/>
+  <line class="st1" x1="249.34" y1="229.54" x2="361.98" y2="342.18"/>
+  <line class="st1" x1="361.98" y1="229.54" x2="249.34" y2="342.18"/>
 </svg>
